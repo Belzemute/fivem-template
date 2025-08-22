@@ -1,0 +1,6 @@
+# Fichiers/dossiers à ignorer
+cache/
+artifact/
+*.log
+server.cfg
+start.bat
